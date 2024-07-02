@@ -5,9 +5,9 @@
 
 🌌 Trabajando en el Proyecto HARMONI del ELT en el Centro de Astrobiología del CSIC.
 
-💡 Intereses: Análisis de Datos Astronómicos, Machine Learning, Big Data en Ciencias del Espacio.
+💡 **Intereses**: Análisis de Datos Astronómicos, Machine Learning, Big Data en Ciencias del Espacio.
 
-🚀 Habilidades: Python, R, SQL, Visualización de Datos, Modelos Predictivos.
+🚀 **Habilidades**: Python, R, SQL, Visualización de Datos, Modelos Predictivos.
 
 <!---
 Wiflys13/Wiflys13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

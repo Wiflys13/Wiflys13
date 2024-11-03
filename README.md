@@ -1,13 +1,13 @@
-#  Hola, mi nombre es Guillermo👋
-### Physics, Data Science and AIT Space Engineer
+# Hello, my name is Guillermo👋
+### Physics, Data Science, and AIT Space Engineer
 
-👨‍🔬 Física - UCM | 🎓 Máster en Big Data y Data Science - VIU
+👨‍🔬 Physics - UCM | 🎓 Master's in Big Data and Data Science - VIU
 
-🌌 Trabajando en el Proyecto HARMONI del ELT en el Centro de Astrobiología del CSIC.
+🌌 Working on the HARMONI Project for the ELT at the CSIC Astrobiology Centre.
 
-💡 **Intereses**: Análisis de Datos Astronómicos, Machine Learning, Big Data en Ciencias del Espacio.
+💡 **Interests**: Astronomical Data Analysis, Machine Learning, Big Data in Space Sciences.
 
-🚀 **Habilidades**: Python, R, SQL, Visualización de Datos, Modelos Predictivos.
+🚀 **Skills**: Python, R, SQL, Data Visualization, Predictive Models.
 
 <!---
 Wiflys13/Wiflys13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
